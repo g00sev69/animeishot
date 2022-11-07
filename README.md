@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @animeishot
-- 👀 I’m interested in Java as well as front end web development.
-- 🌱 I’m currently learning HTML and CSS
-<!---
-animeishot/animeishot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+# Hi, I'm Cooper Goodman
+
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor"></p>
