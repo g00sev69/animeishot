@@ -17,5 +17,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animeishot&" alt="animeishot" /></p>
 
 <div align="center">
-[Made with ReadMe Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+  
+- [Made with ReadMe Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+  
 </div>
