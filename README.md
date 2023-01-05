@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Cooper Goodman</h1>
 <h3 align="center">A passionate student learning front-end development</h3>
+<p align="center"><sub>i have a raspberry pi so cool ikr</sub></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=animeishot" alt="animeishot" /></a> </p>
 
